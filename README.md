@@ -1,5 +1,4 @@
 # Outhouse
-## Phase 2 - team29
 Link to our deployed app: https://outhouse-uoft.herokuapp.com/
 
 ## About Outhouse
